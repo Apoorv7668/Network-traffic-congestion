@@ -21,7 +21,7 @@ features = joblib.load("notebooks/features.pkl")
 
 @app.get("/")
 def root():
-    return {"message": "✅ Network Congestion Prediction API is running 🚀"}
+    return {"message": "Network Congestion Prediction API is running "}
 
 @app.post("/predict")
 def predict_congestion(payload: TrafficData):
