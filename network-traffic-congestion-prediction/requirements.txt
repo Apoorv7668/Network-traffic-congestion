@@ -1,5 +1,13 @@
 pandas
+numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
+fastapi
+flask
+docker
+requests
+uvicorn
+scikit-learn
+joblib
+pydantic

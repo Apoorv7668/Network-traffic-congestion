@@ -1,3 +1,2 @@
-# Global config settings
-
-DATA_PATH = "data/your_dataset.csv"
+# src/config.py
+DATA_PATH = "../data/Dataset-Unicauca-Version2-87Atts.csv"
